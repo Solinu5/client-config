@@ -6,6 +6,7 @@
     ],
     "hostname": "decafbadtest",
     "kernels": [
+        "linux",
         "linux-lts"
     ],
     "keyboard-layout": "us",
@@ -18,23 +19,7 @@
         "type": "enp0s3"
     },
     "ntp": true,
-    "packages": [       
-            "git", 
-            "neovim", 
-            "thunderbird", 
-            "zsh", 
-            "sway", 
-            "alacritty", 
-            "waybar", 
-            "wofi", 
-            "xorg-xwayland", 
-            "xorg-xlsclients", 
-            "qt5-wayland", 
-            "glfw-wayland", 
-            "virtualbox", 
-            "vagrant", 
-            "docker-compose"
-    ],
+    "packages": [],
     "profile": "sway",
     "script": "guided",
     "swap": true,
